@@ -1,7 +1,7 @@
 {
   "name": "electron-example",
   "version": "1.0.0",
-  "author": "abdul aziz <rnaufal32@muslim.com>",
+  "author": "aanr <rnaufal32@gmail.com>",
   "description": "An electron-vue project",
   "license": null,
   "main": "./dist/electron/main.js",
